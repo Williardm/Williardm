@@ -38,7 +38,7 @@ Data Science
 
 ## Blog 📖
 
-I share my thoughts, tutorials, and insights about software development on [![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
+I share my thoughts, tutorials, and insights about software development on [![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@waiswak](https://medium.com/@mungatiwill))
 
 Feel free to explore my posts on various topics related to software technologies, trends, and my personal experiences in the industry.
 
@@ -49,11 +49,11 @@ Feel free to explore my posts on various topics related to software technologies
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 **Overall GitHub Stats**  
-![](https://github-readme-stats.vercel.app/api?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Williardm&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
 
 **Streak Stats**  
-![](https://nirzak-streak-stats.vercel.app/?user=WaiswaK&theme=transparent&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Williardm&theme=transparent&hide_border=false)
 
 ---
 
-🔗 **Let's connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waiswak)
+🔗 **Let's connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/waiswak](https://www.linkedin.com/in/mungati-williard-610983272/))
